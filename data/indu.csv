@@ -1,0 +1,74 @@
+TICKER,SHORT_NAME,GICS_SECTOR_NAME,GICS_INDUSTRY_GROUP_NAME,GICS_INDUSTRY_NAME,GICS_SUB_INDUSTRY_NAME
+AAPL UW Equity,APPLE INC,Information Technology,Technology Hardware & Equipmen,"Technology
+Hardware,
+Storage
+&","Technology Hardware, Storage &"
+AXP UN Equity,AMERICAN EXPRESS,Financials,Diversified Financials,"Consumer
+Finance",Consumer Finance
+BA UN Equity,BOEING CO/THE,Industrials,Capital Goods,"Aerospace
+&
+Defense",Aerospace & Defense
+CAT UN Equity,CATERPILLAR INC,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+CSCO UW Equity,CISCO SYSTEMS,Information Technology,Technology Hardware & Equipmen,"Communications
+Equipment",Communications Equipment
+CVX UN Equity,CHEVRON CORP,Energy,Energy,"Oil,
+Gas
+&
+Consumable
+Fuels",Integrated Oil & Gas
+DIS UN Equity,WALT DISNEY CO,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+DOW UN Equity,DOW INC,Materials,Materials,Chemicals,Commodity Chemicals
+GS UN Equity,GOLDMAN SACHS GP,Financials,Diversified Financials,"Capital
+Markets",Investment Banking & Brokerage
+HD UN Equity,HOME DEPOT INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Home Improvement Retail
+IBM UN Equity,IBM,Information Technology,Software & Services,"IT
+Services",IT Consulting & Other Services
+INTC UW Equity,INTEL CORP,Information Technology,Semiconductors & Semiconductor,"Semiconductors
+&
+Semiconductor",Semiconductors
+JNJ UN Equity,JOHNSON&JOHNSON,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+JPM UN Equity,JPMORGAN CHASE,Financials,Banks,Banks,Diversified Banks
+KO UN Equity,COCA-COLA CO/THE,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks
+MCD UN Equity,MCDONALDS CORP,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
+MMM UN Equity,3M CO,Industrials,Capital Goods,"Industrial
+Conglomerates",Industrial Conglomerates
+MRK UN Equity,MERCK & CO,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+MSFT UW Equity,MICROSOFT CORP,Information Technology,Software & Services,Software,Systems Software
+NKE UN Equity,NIKE INC -CL B,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo",Footwear
+PFE UN Equity,PFIZER INC,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+PG UN Equity,PROCTER & GAMBLE,Consumer Staples,Household & Personal Products,"Household
+Products",Household Products
+TRV UN Equity,TRAVELERS COS IN,Financials,Insurance,Insurance,Property & Casualty Insurance
+UNH UN Equity,UNITEDHEALTH GRP,Health Care,Health Care Equipment & Servic,"Health
+Care
+Providers
+&
+Servic",Managed Health Care
+UTX UN Equity,UNITED TECH CORP,Industrials,Capital Goods,"Aerospace
+&
+Defense",Aerospace & Defense
+V UN Equity,VISA INC-CLASS A,Information Technology,Software & Services,"IT
+Services",Data Processing & Outsourced S
+VZ UN Equity,VERIZON COMMUNIC,Communication Services,Telecommunication Services,"Diversified
+Telecommunication",Integrated Telecommunication S
+WBA UW Equity,WALGREENS BOOTS,Consumer Staples,Food & Staples Retailing,"Food
+&
+Staples
+Retailing",Drug Retail
+WMT UN Equity,WALMART INC,Consumer Staples,Food & Staples Retailing,"Food
+&
+Staples
+Retailing",Hypermarkets & Super Centers
+XOM UN Equity,EXXON MOBIL CORP,Energy,Energy,"Oil,
+Gas
+&
+Consumable
+Fuels",Integrated Oil & Gas

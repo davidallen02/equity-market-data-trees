@@ -1,0 +1,506 @@
+TICKER,SHORT_NAME,GICS_SECTOR_NAME,GICS_INDUSTRY_GROUP_NAME,GICS_INDUSTRY_NAME,GICS_SUB_INDUSTRY_NAME
+A UN Equity,AGILENT TECH INC,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+AAL UW Equity,AMERICAN AIRLINE,Industrials,Transportation,Airlines,Airlines
+AAP UN Equity,ADVANCE AUTO PAR,Consumer Discretionary,Retailing,Specialty Retail,Automotive Retail
+AAPL UW Equity,APPLE INC,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+ABBV UN Equity,ABBVIE INC,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+ABC UN Equity,AMERISOURCEBERGE,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+ABMD UW Equity,ABIOMED INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ABT UN Equity,ABBOTT LABS,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ACN UN Equity,ACCENTURE PLC-A,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+ADBE UW Equity,ADOBE INC,Information Technology,Software & Services,Software,Application Software
+ADI UW Equity,ANALOG DEVICES,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+ADM UN Equity,ARCHER-DANIELS,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Agricultural Products
+ADP UW Equity,AUTOMATIC DATA,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+ADS UN Equity,ALLIANCE DATA,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+ADSK UW Equity,AUTODESK INC,Information Technology,Software & Services,Software,Application Software
+AEE UN Equity,AMEREN CORP,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+AEP UN Equity,AMERICAN ELECTRI,Utilities,Utilities,Electric Utilities,Electric Utilities
+AES UN Equity,AES CORP,Utilities,Utilities,Independent Power and Renewabl,Independent Power Producers &
+AFL UN Equity,AFLAC INC,Financials,Insurance,Insurance,Life & Health Insurance
+AGN UN Equity,ALLERGAN PLC,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+AIG UN Equity,AMERICAN INTERNA,Financials,Insurance,Insurance,Multi-line Insurance
+AIV UN Equity,APARTMENT INVEST,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+AIZ UN Equity,ASSURANT INC,Financials,Insurance,Insurance,Multi-line Insurance
+AJG UN Equity,ARTHUR J GALLAGH,Financials,Insurance,Insurance,Insurance Brokers
+AKAM UW Equity,AKAMAI TECHNOLOG,Information Technology,Software & Services,IT Services,Internet Services & Infrastruc
+ALB UN Equity,ALBEMARLE CORP,Materials,Materials,Chemicals,Specialty Chemicals
+ALGN UW Equity,ALIGN TECHNOLOGY,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+ALK UN Equity,ALASKA AIR GROUP,Industrials,Transportation,Airlines,Airlines
+ALL UN Equity,ALLSTATE CORP,Financials,Insurance,Insurance,Property & Casualty Insurance
+ALLE UN Equity,ALLEGION PLC,Industrials,Capital Goods,Building Products,Building Products
+ALXN UW Equity,ALEXION PHARM,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+AMAT UW Equity,APPLIED MATERIAL,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Equipment
+AMCR UN Equity,AMCOR PLC,Materials,Materials,Containers & Packaging,Paper Packaging
+AMD UW Equity,ADV MICRO DEVICE,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+AME UN Equity,AMETEK INC,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+AMGN UW Equity,AMGEN INC,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+AMP UN Equity,AMERIPRISE FINAN,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+AMT UN Equity,AMERICAN TOWER C,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+AMZN UW Equity,AMAZON.COM INC,Consumer Discretionary,Retailing,Internet & Direct Marketing Re,Internet & Direct Marketing Re
+ANET UN Equity,ARISTA NETWORKS,Information Technology,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+ANSS UW Equity,ANSYS INC,Information Technology,Software & Services,Software,Application Software
+ANTM UN Equity,ANTHEM INC,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+AON UN Equity,AON PLC,Financials,Insurance,Insurance,Insurance Brokers
+AOS UN Equity,SMITH (A.O.)CORP,Industrials,Capital Goods,Building Products,Building Products
+APA UN Equity,APACHE CORP,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+APD UN Equity,AIR PRODS & CHEM,Materials,Materials,Chemicals,Industrial Gases
+APH UN Equity,AMPHENOL CORP-A,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+APTV UN Equity,APTIV PLC,Consumer Discretionary,Automobiles & Components,Auto Components,Auto Parts & Equipment
+ARE UN Equity,ALEXANDRIA REAL,Real Estate,Real Estate,Equity Real Estate Investment,Office REITs
+ARNC UN Equity,ARCONIC INC,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+ATO UN Equity,ATMOS ENERGY,Utilities,Utilities,Gas Utilities,Gas Utilities
+ATVI UW Equity,ACTIVISION BLIZZ,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+AVB UN Equity,AVALONBAY COMMUN,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+AVGO UW Equity,BROADCOM INC,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+AVY UN Equity,AVERY DENNISON,Materials,Materials,Containers & Packaging,Paper Packaging
+AWK UN Equity,AMERICAN WATER W,Utilities,Utilities,Water Utilities,Water Utilities
+AXP UN Equity,AMERICAN EXPRESS,Financials,Diversified Financials,Consumer Finance,Consumer Finance
+AZO UN Equity,AUTOZONE INC,Consumer Discretionary,Retailing,Specialty Retail,Automotive Retail
+BA UN Equity,BOEING CO/THE,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+BAC UN Equity,BANK OF AMERICA,Financials,Banks,Banks,Diversified Banks
+BAX UN Equity,BAXTER INTL INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BBY UN Equity,BEST BUY CO INC,Consumer Discretionary,Retailing,Specialty Retail,Computer & Electronics Retail
+BDX UN Equity,BECTON DICKINSON,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BEN UN Equity,FRANKLIN RES INC,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+BF/B UN Equity,BROWN-FORMAN -B,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+BIIB UW Equity,BIOGEN INC,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+BK UN Equity,BANK NY MELLON,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+BKNG UW Equity,BOOKING HOLDINGS,Consumer Discretionary,Retailing,Internet & Direct Marketing Re,Internet & Direct Marketing Re
+BKR UN Equity,BAKER HUGHES CO,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+BLK UN Equity,BLACKROCK INC,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+BLL UN Equity,BALL CORP,Materials,Materials,Containers & Packaging,Metal & Glass Containers
+BMY UN Equity,BRISTOL-MYER SQB,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+BR UN Equity,BROADRIDGE FINL,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+BRK/B UN Equity,BERKSHIRE HATH-B,Financials,Diversified Financials,Diversified Financial Services,Multi-Sector Holdings
+BSX UN Equity,BOSTON SCIENTIFC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+BWA UN Equity,BORGWARNER INC,Consumer Discretionary,Automobiles & Components,Auto Components,Auto Parts & Equipment
+BXP UN Equity,BOSTON PROPERTIE,Real Estate,Real Estate,Equity Real Estate Investment,Office REITs
+C UN Equity,CITIGROUP INC,Financials,Banks,Banks,Diversified Banks
+CAG UN Equity,CONAGRA BRANDS I,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+CAH UN Equity,CARDINAL HEALTH,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+CAT UN Equity,CATERPILLAR INC,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+CB UN Equity,CHUBB LTD,Financials,Insurance,Insurance,Property & Casualty Insurance
+CBOE UF Equity,CBOE GLOBAL MARK,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+CBRE UN Equity,CBRE GROUP INC-A,Real Estate,Real Estate,Real Estate Management & Devel,Real Estate Services
+CCI UN Equity,CROWN CASTLE INT,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+CCL UN Equity,CARNIVAL CORP,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+CDNS UW Equity,CADENCE DESIGN,Information Technology,Software & Services,Software,Application Software
+CDW UW Equity,CDW CORP/DE,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Technology Distributors
+CE UN Equity,CELANESE CORP,Materials,Materials,Chemicals,Specialty Chemicals
+CERN UW Equity,CERNER CORP,Health Care,Health Care Equipment & Servic,Health Care Technology,Health Care Technology
+CF UN Equity,CF INDUSTRIES HO,Materials,Materials,Chemicals,Fertilizers & Agricultural Che
+CFG UN Equity,CITIZENS FINANCI,Financials,Banks,Banks,Regional Banks
+CHD UN Equity,CHURCH & DWIGHT,Consumer Staples,Household & Personal Products,Household Products,Household Products
+CHRW UW Equity,CH ROBINSON,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+CHTR UW Equity,CHARTER COMMUN-A,Communication Services,Media & Entertainment,Media,Cable & Satellite
+CI UN Equity,CIGNA CORP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+CINF UW Equity,CINCINNATI FIN,Financials,Insurance,Insurance,Property & Casualty Insurance
+CL UN Equity,COLGATE-PALMOLIV,Consumer Staples,Household & Personal Products,Household Products,Household Products
+CLX UN Equity,CLOROX CO,Consumer Staples,Household & Personal Products,Household Products,Household Products
+CMA UN Equity,COMERICA INC,Financials,Banks,Banks,Regional Banks
+CMCSA UW Equity,COMCAST CORP-A,Communication Services,Media & Entertainment,Media,Cable & Satellite
+CME UW Equity,CME GROUP INC,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+CMG UN Equity,CHIPOTLE MEXICAN,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+CMI UN Equity,CUMMINS INC,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+CMS UN Equity,CMS ENERGY CORP,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+CNC UN Equity,CENTENE CORP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+CNP UN Equity,CENTERPOINT ENER,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+COF UN Equity,CAPITAL ONE FINA,Financials,Diversified Financials,Consumer Finance,Consumer Finance
+COG UN Equity,CABOT OIL & GAS,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+COO UN Equity,COOPER COS INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+COP UN Equity,CONOCOPHILLIPS,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+COST UW Equity,COSTCO WHOLESALE,Consumer Staples,Food & Staples Retailing,Food & Staples Retailing,Hypermarkets & Super Centers
+COTY UN Equity,COTY INC-CL A,Consumer Staples,Household & Personal Products,Personal Products,Personal Products
+CPB UN Equity,CAMPBELL SOUP CO,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+CPRI UN Equity,CAPRI HOLDINGS L,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+CPRT UW Equity,COPART INC,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+CRM UN Equity,SALESFORCE.COM,Information Technology,Software & Services,Software,Application Software
+CSCO UW Equity,CISCO SYSTEMS,Information Technology,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+CSX UW Equity,CSX CORP,Industrials,Transportation,Road & Rail,Railroads
+CTAS UW Equity,CINTAS CORP,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+CTL UN Equity,CENTURYLINK INC,Communication Services,Telecommunication Services,Diversified Telecommunication,Alternative Carriers
+CTSH UW Equity,COGNIZANT TECH-A,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+CTVA UN Equity,CORTEVA INC,Materials,Materials,Chemicals,Fertilizers & Agricultural Che
+CTXS UW Equity,CITRIX SYSTEMS,Information Technology,Software & Services,Software,Application Software
+CVS UN Equity,CVS HEALTH CORP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+CVX UN Equity,CHEVRON CORP,Energy,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+CXO UN Equity,CONCHO RESOURCES,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+D UN Equity,DOMINION ENERGY,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+DAL UN Equity,DELTA AIR LI,Industrials,Transportation,Airlines,Airlines
+DD UN Equity,DUPONT DE NEMOUR,Materials,Materials,Chemicals,Specialty Chemicals
+DE UN Equity,DEERE & CO,Industrials,Capital Goods,Machinery,Agricultural & Farm Machinery
+DFS UN Equity,DISCOVER FINANCI,Financials,Diversified Financials,Consumer Finance,Consumer Finance
+DG UN Equity,DOLLAR GENERAL C,Consumer Discretionary,Retailing,Multiline Retail,General Merchandise Stores
+DGX UN Equity,QUEST DIAGNOSTIC,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+DHI UN Equity,DR HORTON INC,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding
+DHR UN Equity,DANAHER CORP,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+DIS UN Equity,WALT DISNEY CO,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+DISCA UW Equity,DISCOVERY INC -,Communication Services,Media & Entertainment,Media,Broadcasting
+DISCK UW Equity,DISCOVERY INC-C,Communication Services,Media & Entertainment,Media,Broadcasting
+DISH UW Equity,DISH NETWORK-A,Communication Services,Media & Entertainment,Media,Cable & Satellite
+DLR UN Equity,DIGITAL REALTY,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+DLTR UW Equity,DOLLAR TREE INC,Consumer Discretionary,Retailing,Multiline Retail,General Merchandise Stores
+DOV UN Equity,DOVER CORP,Industrials,Capital Goods,Machinery,Industrial Machinery
+DOW UN Equity,DOW INC,Materials,Materials,Chemicals,Commodity Chemicals
+DRE UN Equity,DUKE REALTY CORP,Real Estate,Real Estate,Equity Real Estate Investment,Industrial REITs
+DRI UN Equity,DARDEN RESTAURAN,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+DTE UN Equity,DTE ENERGY CO,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+DUK UN Equity,DUKE ENERGY CORP,Utilities,Utilities,Electric Utilities,Electric Utilities
+DVA UN Equity,DAVITA INC,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+DVN UN Equity,DEVON ENERGY CO,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+DXC UN Equity,DXC TECHNOLOGY C,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+EA UW Equity,ELECTRONIC ARTS,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+EBAY UW Equity,EBAY INC,Consumer Discretionary,Retailing,Internet & Direct Marketing Re,Internet & Direct Marketing Re
+ECL UN Equity,ECOLAB INC,Materials,Materials,Chemicals,Specialty Chemicals
+ED UN Equity,CONS EDISON INC,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+EFX UN Equity,EQUIFAX INC,Industrials,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+EIX UN Equity,EDISON INTL,Utilities,Utilities,Electric Utilities,Electric Utilities
+EL UN Equity,ESTEE LAUDER,Consumer Staples,Household & Personal Products,Personal Products,Personal Products
+EMN UN Equity,EASTMAN CHEMICAL,Materials,Materials,Chemicals,Diversified Chemicals
+EMR UN Equity,EMERSON ELEC CO,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+EOG UN Equity,EOG RESOURCES,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+EQIX UW Equity,EQUINIX INC,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+EQR UN Equity,EQUITY RESIDENTI,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+ES UN Equity,EVERSOURCE ENERG,Utilities,Utilities,Electric Utilities,Electric Utilities
+ESS UN Equity,ESSEX PROPERTY,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+ETFC UW Equity,E*TRADE FINANCIA,Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage
+ETN UN Equity,EATON CORP PLC,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+ETR UN Equity,ENTERGY CORP,Utilities,Utilities,Electric Utilities,Electric Utilities
+EVRG UN Equity,EVERGY INC,Utilities,Utilities,Electric Utilities,Electric Utilities
+EW UN Equity,EDWARDS LIFE,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+EXC UW Equity,EXELON CORP,Utilities,Utilities,Electric Utilities,Electric Utilities
+EXPD UW Equity,EXPEDITORS INTL,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+EXPE UW Equity,EXPEDIA GROUP IN,Consumer Discretionary,Retailing,Internet & Direct Marketing Re,Internet & Direct Marketing Re
+EXR UN Equity,EXTRA SPACE STOR,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+F UN Equity,FORD MOTOR CO,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+FANG UW Equity,DIAMONDBACK ENER,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+FAST UW Equity,FASTENAL CO,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+FB UW Equity,FACEBOOK INC-A,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+FBHS UN Equity,FORTUNE BRANDS H,Industrials,Capital Goods,Building Products,Building Products
+FCX UN Equity,FREEPORT-MCMORAN,Materials,Materials,Metals & Mining,Copper
+FDX UN Equity,FEDEX CORP,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+FE UN Equity,FIRSTENERGY CORP,Utilities,Utilities,Electric Utilities,Electric Utilities
+FFIV UW Equity,F5 NETWORKS,Information Technology,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+FIS UN Equity,FIDELITY NATIONA,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+FISV UW Equity,FISERV INC,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+FITB UW Equity,FIFTH THIRD BANC,Financials,Banks,Banks,Regional Banks
+FLIR UW Equity,FLIR SYSTEMS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+FLS UN Equity,FLOWSERVE CORP,Industrials,Capital Goods,Machinery,Industrial Machinery
+FLT UN Equity,FLEETCOR TECHNOL,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+FMC UN Equity,FMC CORP,Materials,Materials,Chemicals,Fertilizers & Agricultural Che
+FOX UW Equity,FOX CORP - B,Communication Services,Media & Entertainment,Media,Broadcasting
+FOXA UW Equity,FOX CORP - A,Communication Services,Media & Entertainment,Media,Broadcasting
+FRC UN Equity,FIRST REPUBLIC B,Financials,Banks,Banks,Regional Banks
+FRT UN Equity,FED REALTY INVS,Real Estate,Real Estate,Equity Real Estate Investment,Retail REITs
+FTI UN Equity,TECHNIPFMC PLC,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+FTNT UW Equity,FORTINET INC,Information Technology,Software & Services,Software,Systems Software
+FTV UN Equity,FORTIVE CORP,Industrials,Capital Goods,Machinery,Industrial Machinery
+GD UN Equity,GENERAL DYNAMICS,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+GE UN Equity,GENERAL ELECTRIC,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+GILD UW Equity,GILEAD SCIENCES,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+GIS UN Equity,GENERAL MILLS IN,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+GL UN Equity,GLOBE LIFE INC,Financials,Insurance,Insurance,Life & Health Insurance
+GLW UN Equity,CORNING INC,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+GM UN Equity,GENERAL MOTORS C,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+GOOG UW Equity,ALPHABET INC-C,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+GOOGL UW Equity,ALPHABET INC-A,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+GPC UN Equity,GENUINE PARTS CO,Consumer Discretionary,Retailing,Distributors,Distributors
+GPN UN Equity,GLOBAL PAYMENTS,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+GPS UN Equity,GAP INC/THE,Consumer Discretionary,Retailing,Specialty Retail,Apparel Retail
+GRMN UW Equity,GARMIN LTD,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Consumer Electronics
+GS UN Equity,GOLDMAN SACHS GP,Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage
+GWW UN Equity,WW GRAINGER INC,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+HAL UN Equity,HALLIBURTON CO,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+HAS UW Equity,HASBRO INC,Consumer Discretionary,Consumer Durables & Apparel,Leisure Products,Leisure Products
+HBAN UW Equity,HUNTINGTON BANC,Financials,Banks,Banks,Regional Banks
+HBI UN Equity,HANESBRANDS INC,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+HCA UN Equity,HCA HEALTHCARE I,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Facilities
+HD UN Equity,HOME DEPOT INC,Consumer Discretionary,Retailing,Specialty Retail,Home Improvement Retail
+HES UN Equity,HESS CORP,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+HFC UN Equity,HOLLYFRONTIER CO,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+HIG UN Equity,HARTFORD FINL SV,Financials,Insurance,Insurance,Multi-line Insurance
+HII UN Equity,HUNTINGTON INGAL,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+HLT UN Equity,HILTON WORLDWIDE,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+HOG UN Equity,HARLEY-DAVIDSON,Consumer Discretionary,Automobiles & Components,Automobiles,Motorcycle Manufacturers
+HOLX UW Equity,HOLOGIC INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+HON UN Equity,HONEYWELL INTL,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+HP UN Equity,HELMERICH & PAYN,Energy,Energy,Energy Equipment & Services,Oil & Gas Drilling
+HPE UN Equity,HEWLETT PACKA,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+HPQ UN Equity,HP INC,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+HRB UN Equity,H&R BLOCK INC,Consumer Discretionary,Consumer Services,Diversified Consumer Services,Specialized Consumer Services
+HRL UN Equity,HORMEL FOODS CRP,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+HSIC UW Equity,HENRY SCHEIN INC,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+HST UN Equity,HOST HOTELS & RE,Real Estate,Real Estate,Equity Real Estate Investment,Hotel & Resort REITs
+HSY UN Equity,HERSHEY CO/THE,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+HUM UN Equity,HUMANA INC,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+IBM UN Equity,IBM,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+ICE UN Equity,INTERCONTINENTAL,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+IDXX UW Equity,IDEXX LABS,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+IEX UN Equity,IDEX CORP,Industrials,Capital Goods,Machinery,Industrial Machinery
+IFF UN Equity,INTL FLVR & FRAG,Materials,Materials,Chemicals,Specialty Chemicals
+ILMN UW Equity,ILLUMINA INC,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+INCY UW Equity,INCYTE CORP,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+INFO UN Equity,IHS MARKIT LTD,Industrials,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+INTC UW Equity,INTEL CORP,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+INTU UW Equity,INTUIT INC,Information Technology,Software & Services,Software,Application Software
+IP UN Equity,INTL PAPER CO,Materials,Materials,Containers & Packaging,Paper Packaging
+IPG UN Equity,INTERPUBLIC GRP,Communication Services,Media & Entertainment,Media,Advertising
+IPGP UW Equity,IPG PHOTONICS,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+IQV UN Equity,IQVIA HOLDINGS I,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+IR UN Equity,INGERSOLL-RAND,Industrials,Capital Goods,Machinery,Industrial Machinery
+IRM UN Equity,IRON MOUNTAIN,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+ISRG UW Equity,INTUITIVE SURGIC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+IT UN Equity,GARTNER INC,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+ITW UN Equity,ILLINOIS TOOL WO,Industrials,Capital Goods,Machinery,Industrial Machinery
+IVZ UN Equity,INVESCO LTD,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+J UN Equity,JACOBS ENGIN GRP,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+JBHT UW Equity,HUNT (JB) TRANS,Industrials,Transportation,Road & Rail,Trucking
+JCI UN Equity,JOHNSON CONTROLS,Industrials,Capital Goods,Building Products,Building Products
+JKHY UW Equity,JACK HENRY,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+JNJ UN Equity,JOHNSON&JOHNSON,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+JNPR UN Equity,JUNIPER NETWORKS,Information Technology,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+JPM UN Equity,JPMORGAN CHASE,Financials,Banks,Banks,Diversified Banks
+JWN UN Equity,NORDSTROM INC,Consumer Discretionary,Retailing,Multiline Retail,Department Stores
+K UN Equity,KELLOGG CO,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+KEY UN Equity,KEYCORP,Financials,Banks,Banks,Regional Banks
+KEYS UN Equity,KEYSIGHT TEC,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+KHC UW Equity,KRAFT HEINZ CO/T,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+KIM UN Equity,KIMCO REALTY,Real Estate,Real Estate,Equity Real Estate Investment,Retail REITs
+KLAC UW Equity,KLA CORP,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Equipment
+KMB UN Equity,KIMBERLY-CLARK,Consumer Staples,Household & Personal Products,Household Products,Household Products
+KMI UN Equity,KINDER MORGAN IN,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+KMX UN Equity,CARMAX INC,Consumer Discretionary,Retailing,Specialty Retail,Automotive Retail
+KO UN Equity,COCA-COLA CO/THE,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks
+KR UN Equity,KROGER CO,Consumer Staples,Food & Staples Retailing,Food & Staples Retailing,Food Retail
+KSS UN Equity,KOHLS CORP,Consumer Discretionary,Retailing,Multiline Retail,Department Stores
+KSU UN Equity,KANSAS CITY SOUT,Industrials,Transportation,Road & Rail,Railroads
+L UN Equity,LOEWS CORP,Financials,Insurance,Insurance,Property & Casualty Insurance
+LB UN Equity,L BRANDS INC,Consumer Discretionary,Retailing,Specialty Retail,Apparel Retail
+LDOS UN Equity,LEIDOS HOLDINGS,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+LEG UN Equity,LEGGETT & PLATT,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+LEN UN Equity,LENNAR CORP-A,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding
+LH UN Equity,LABORATORY CP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Services
+LHX UN Equity,L3HARRIS TECHNOL,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+LIN UN Equity,LINDE PLC,Materials,Materials,Chemicals,Industrial Gases
+LKQ UW Equity,LKQ CORP,Consumer Discretionary,Retailing,Distributors,Distributors
+LLY UN Equity,ELI LILLY & CO,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+LMT UN Equity,LOCKHEED MARTIN,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+LNC UN Equity,LINCOLN NATL CRP,Financials,Insurance,Insurance,Life & Health Insurance
+LNT UW Equity,ALLIANT ENERGY,Utilities,Utilities,Electric Utilities,Electric Utilities
+LOW UN Equity,LOWE'S COS INC,Consumer Discretionary,Retailing,Specialty Retail,Home Improvement Retail
+LRCX UW Equity,LAM RESEARCH,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductor Equipment
+LUV UN Equity,SOUTHWEST AIR,Industrials,Transportation,Airlines,Airlines
+LVS UN Equity,LAS VEGAS SANDS,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+LW UN Equity,LAMB WESTON,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+LYB UN Equity,LYONDELLBASELL-A,Materials,Materials,Chemicals,Commodity Chemicals
+LYV UN Equity,LIVE NATION ENTE,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+M UN Equity,MACY'S INC,Consumer Discretionary,Retailing,Multiline Retail,Department Stores
+MA UN Equity,MASTERCARD INC-A,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+MAA UN Equity,MID-AMERICA APAR,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+MAR UW Equity,MARRIOTT INTL-A,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+MAS UN Equity,MASCO CORP,Industrials,Capital Goods,Building Products,Building Products
+MCD UN Equity,MCDONALDS CORP,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+MCHP UW Equity,MICROCHIP TECH,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MCK UN Equity,MCKESSON CORP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Distributors
+MCO UN Equity,MOODY'S CORP,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+MDLZ UW Equity,MONDELEZ INTER-A,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+MDT UN Equity,MEDTRONIC PLC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+MET UN Equity,METLIFE INC,Financials,Insurance,Insurance,Life & Health Insurance
+MGM UN Equity,MGM RESORTS INTE,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+MHK UN Equity,MOHAWK INDS,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+MKC UN Equity,MCCORMICK-N/V,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+MKTX UW Equity,MARKETAXESS,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+MLM UN Equity,MARTIN MAR MTLS,Materials,Materials,Construction Materials,Construction Materials
+MMC UN Equity,MARSH & MCLENNAN,Financials,Insurance,Insurance,Insurance Brokers
+MMM UN Equity,3M CO,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+MNST UW Equity,MONSTER BEVERAGE,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks
+MO UN Equity,ALTRIA GROUP INC,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco
+MOS UN Equity,MOSAIC CO/THE,Materials,Materials,Chemicals,Fertilizers & Agricultural Che
+MPC UN Equity,MARATHON PETROLE,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+MRK UN Equity,MERCK & CO,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+MRO UN Equity,MARATHON OIL,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+MS UN Equity,MORGAN STANLEY,Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage
+MSCI UN Equity,MSCI INC,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+MSFT UW Equity,MICROSOFT CORP,Information Technology,Software & Services,Software,Systems Software
+MSI UN Equity,MOTOROLA SOLUTIO,Information Technology,Technology Hardware & Equipmen,Communications Equipment,Communications Equipment
+MTB UN Equity,M&T BANK CORP,Financials,Banks,Banks,Regional Banks
+MTD UN Equity,METTLER-TOLEDO,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+MU UW Equity,MICRON TECH,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MXIM UW Equity,MAXIM INTEGRATED,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+MYL UW Equity,MYLAN NV,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+NBL UW Equity,NOBLE ENERGY INC,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+NCLH UN Equity,NORWEGIAN CRUISE,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+NDAQ UW Equity,NASDAQ INC,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+NEE UN Equity,NEXTERA ENERGY,Utilities,Utilities,Electric Utilities,Electric Utilities
+NEM UN Equity,NEWMONT CORP,Materials,Materials,Metals & Mining,Gold
+NFLX UW Equity,NETFLIX INC,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+NI UN Equity,NISOURCE INC,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+NKE UN Equity,NIKE INC -CL B,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo",Footwear
+NLOK UW Equity,NORTONLIFELOCK I,Information Technology,Software & Services,Software,Systems Software
+NLSN UN Equity,NIELSEN HOLDINGS,Industrials,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+NOC UN Equity,NORTHROP GRUMMAN,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+NOV UN Equity,NATL OILWELL VAR,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+NOW UN Equity,SERVICENOW INC,Information Technology,Software & Services,Software,Systems Software
+NRG UN Equity,NRG ENERGY,Utilities,Utilities,Independent Power and Renewabl,Independent Power Producers &
+NSC UN Equity,NORFOLK SOUTHERN,Industrials,Transportation,Road & Rail,Railroads
+NTAP UW Equity,NETAPP INC,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+NTRS UW Equity,NORTHERN TRUST,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+NUE UN Equity,NUCOR CORP,Materials,Materials,Metals & Mining,Steel
+NVDA UW Equity,NVIDIA CORP,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+NVR UN Equity,NVR INC,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding
+NWL UW Equity,NEWELL BRANDS IN,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Housewares & Specialties
+NWS UW Equity,NEWS CORP-CL B,Communication Services,Media & Entertainment,Media,Publishing
+NWSA UW Equity,NEWS CORP-CL A,Communication Services,Media & Entertainment,Media,Publishing
+O UN Equity,REALTY INCOME,Real Estate,Real Estate,Equity Real Estate Investment,Retail REITs
+ODFL UW Equity,OLD DOMINION FRT,Industrials,Transportation,Road & Rail,Trucking
+OKE UN Equity,ONEOK INC,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+OMC UN Equity,OMNICOM GROUP,Communication Services,Media & Entertainment,Media,Advertising
+ORCL UN Equity,ORACLE CORP,Information Technology,Software & Services,Software,Systems Software
+ORLY UW Equity,O'REILLY AUTOMOT,Consumer Discretionary,Retailing,Specialty Retail,Automotive Retail
+OXY UN Equity,OCCIDENTAL PETE,Energy,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+PAYX UW Equity,PAYCHEX INC,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+PBCT UW Equity,PEOPLE'S UNITED,Financials,Banks,Banks,Regional Banks
+PCAR UW Equity,PACCAR INC,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+PEAK UN Equity,HEALTHPEAK PROPE,Real Estate,Real Estate,Equity Real Estate Investment,Health Care REITs
+PEG UN Equity,PUB SERV ENTERP,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+PEP UW Equity,PEPSICO INC,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks
+PFE UN Equity,PFIZER INC,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+PFG UW Equity,PRINCIPAL FINL,Financials,Insurance,Insurance,Life & Health Insurance
+PG UN Equity,PROCTER & GAMBLE,Consumer Staples,Household & Personal Products,Household Products,Household Products
+PGR UN Equity,PROGRESSIVE CORP,Financials,Insurance,Insurance,Property & Casualty Insurance
+PH UN Equity,PARKER HANNIFIN,Industrials,Capital Goods,Machinery,Industrial Machinery
+PHM UN Equity,PULTEGROUP INC,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Homebuilding
+PKG UN Equity,PACKAGING CORP,Materials,Materials,Containers & Packaging,Paper Packaging
+PKI UN Equity,PERKINELMER INC,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+PLD UN Equity,PROLOGIS INC,Real Estate,Real Estate,Equity Real Estate Investment,Industrial REITs
+PM UN Equity,PHILIP MORRIS IN,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco
+PNC UN Equity,PNC FINANCIAL SE,Financials,Banks,Banks,Regional Banks
+PNR UN Equity,PENTAIR PLC,Industrials,Capital Goods,Machinery,Industrial Machinery
+PNW UN Equity,PINNACLE WEST,Utilities,Utilities,Electric Utilities,Electric Utilities
+PPG UN Equity,PPG INDS INC,Materials,Materials,Chemicals,Specialty Chemicals
+PPL UN Equity,PPL CORP,Utilities,Utilities,Electric Utilities,Electric Utilities
+PRGO UN Equity,PERRIGO CO PLC,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+PRU UN Equity,PRUDENTL FINL,Financials,Insurance,Insurance,Life & Health Insurance
+PSA UN Equity,PUBLIC STORAGE,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+PSX UN Equity,PHILLIPS 66,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+PVH UN Equity,PVH CORP,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+PWR UN Equity,QUANTA SERVICES,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+PXD UN Equity,PIONEER NATURAL,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+PYPL UW Equity,PAYPAL HOLDINGS,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+QCOM UW Equity,QUALCOMM INC,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+QRVO UW Equity,QORVO INC,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+RCL UN Equity,ROYAL CARIBBEAN,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+RE UN Equity,EVEREST RE GROUP,Financials,Insurance,Insurance,Reinsurance
+REG UW Equity,REGENCY CENTERS,Real Estate,Real Estate,Equity Real Estate Investment,Retail REITs
+REGN UW Equity,REGENERON PHARM,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+RF UN Equity,REGIONS FINANCIA,Financials,Banks,Banks,Regional Banks
+RHI UN Equity,ROBERT HALF INTL,Industrials,Commercial & Professional Serv,Professional Services,Human Resource & Employment Se
+RJF UN Equity,RAYMOND JAMES,Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage
+RL UN Equity,RALPH LAUREN COR,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+RMD UN Equity,RESMED INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ROK UN Equity,ROCKWELL AUTOMAT,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+ROL UN Equity,ROLLINS INC,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+ROP UN Equity,ROPER TECHNOLOGI,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+ROST UW Equity,ROSS STORES INC,Consumer Discretionary,Retailing,Specialty Retail,Apparel Retail
+RSG UN Equity,REPUBLIC SVCS,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+RTN UN Equity,RAYTHEON CO,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+SBAC UW Equity,SBA COMM CORP,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+SBUX UW Equity,STARBUCKS CORP,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+SCHW UN Equity,SCHWAB (CHARLES),Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage
+SEE UN Equity,SEALED AIR CORP,Materials,Materials,Containers & Packaging,Paper Packaging
+SHW UN Equity,SHERWIN-WILLIAMS,Materials,Materials,Chemicals,Specialty Chemicals
+SIVB UW Equity,SVB FINANCIAL GR,Financials,Banks,Banks,Regional Banks
+SJM UN Equity,JM SMUCKER CO,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+SLB UN Equity,SCHLUMBERGER LTD,Energy,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services
+SLG UN Equity,SL GREEN REALTY,Real Estate,Real Estate,Equity Real Estate Investment,Office REITs
+SNA UN Equity,SNAP-ON INC,Industrials,Capital Goods,Machinery,Industrial Machinery
+SNPS UW Equity,SYNOPSYS INC,Information Technology,Software & Services,Software,Application Software
+SO UN Equity,SOUTHERN CO,Utilities,Utilities,Electric Utilities,Electric Utilities
+SPG UN Equity,SIMON PROPERTY,Real Estate,Real Estate,Equity Real Estate Investment,Retail REITs
+SPGI UN Equity,S&P GLOBAL INC,Financials,Diversified Financials,Capital Markets,Financial Exchanges & Data
+SRE UN Equity,SEMPRA ENERGY,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+STE UN Equity,STERIS PLC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+STT UN Equity,STATE ST CORP,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+STX UW Equity,SEAGATE TECHNOLO,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+STZ UN Equity,CONSTELLATION-A,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+SWK UN Equity,STANLEY BLACK &,Industrials,Capital Goods,Machinery,Industrial Machinery
+SWKS UW Equity,SKYWORKS SOLUTIO,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+SYF UN Equity,SYNCHRONY FINANC,Financials,Diversified Financials,Consumer Finance,Consumer Finance
+SYK UN Equity,STRYKER CORP,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+SYY UN Equity,SYSCO CORP,Consumer Staples,Food & Staples Retailing,Food & Staples Retailing,Food Distributors
+T UN Equity,AT&T INC,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+TAP UN Equity,MOLSON COORS-B,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Brewers
+TDG UN Equity,TRANSDIGM GROUP,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+TEL UN Equity,TE CONNECTIVITY,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Manufacturing Servi
+TFC UN Equity,TRUIST FINANCIAL,Financials,Banks,Banks,Regional Banks
+TFX UN Equity,TELEFLEX INC,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+TGT UN Equity,TARGET CORP,Consumer Discretionary,Retailing,Multiline Retail,General Merchandise Stores
+TIF UN Equity,TIFFANY & CO,Consumer Discretionary,Retailing,Specialty Retail,Specialty Stores
+TJX UN Equity,TJX COS INC,Consumer Discretionary,Retailing,Specialty Retail,Apparel Retail
+TMO UN Equity,THERMO FISHER,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+TMUS UW Equity,T-MOBILE US INC,Communication Services,Telecommunication Services,Wireless Telecommunication Ser,Wireless Telecommunication Ser
+TPR UN Equity,TAPESTRY INC,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+TROW UW Equity,T ROWE PRICE GRP,Financials,Diversified Financials,Capital Markets,Asset Management & Custody Ban
+TRV UN Equity,TRAVELERS COS IN,Financials,Insurance,Insurance,Property & Casualty Insurance
+TSCO UW Equity,TRACTOR SUPPLY,Consumer Discretionary,Retailing,Specialty Retail,Specialty Stores
+TSN UN Equity,TYSON FOODS-A,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+TTWO UW Equity,TAKE-TWO INTERAC,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+TWTR UN Equity,TWITTER INC,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+TXN UW Equity,TEXAS INSTRUMENT,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+TXT UN Equity,TEXTRON INC,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+UA UN Equity,UNDER ARMO-C,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+UAA UN Equity,UNDER ARMOUR-A,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+UAL UW Equity,UNITED AIRLINES,Industrials,Transportation,Airlines,Airlines
+UDR UN Equity,UDR INC,Real Estate,Real Estate,Equity Real Estate Investment,Residential REITs
+UHS UN Equity,UNIVERSAL HLTH-B,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Health Care Facilities
+ULTA UW Equity,ULTA BEAUTY INC,Consumer Discretionary,Retailing,Specialty Retail,Specialty Stores
+UNH UN Equity,UNITEDHEALTH GRP,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+UNM UN Equity,UNUM GROUP,Financials,Insurance,Insurance,Life & Health Insurance
+UNP UN Equity,UNION PAC CORP,Industrials,Transportation,Road & Rail,Railroads
+UPS UN Equity,UNITED PARCEL-B,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+URI UN Equity,UNITED RENTALS,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+USB UN Equity,US BANCORP,Financials,Banks,Banks,Diversified Banks
+UTX UN Equity,UNITED TECH CORP,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+V UN Equity,VISA INC-CLASS A,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+VAR UN Equity,VARIAN MEDICAL S,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+VFC UN Equity,VF CORP,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+VIAC UW Equity,VIACOMCBS INC-B,Communication Services,Media & Entertainment,Media,Broadcasting
+VLO UN Equity,VALERO ENERGY,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+VMC UN Equity,VULCAN MATERIALS,Materials,Materials,Construction Materials,Construction Materials
+VNO UN Equity,VORNADO RLTY TST,Real Estate,Real Estate,Equity Real Estate Investment,Office REITs
+VRSK UW Equity,VERISK ANALYTI,Industrials,Commercial & Professional Serv,Professional Services,Research & Consulting Services
+VRSN UW Equity,VERISIGN INC,Information Technology,Software & Services,IT Services,Internet Services & Infrastruc
+VRTX UW Equity,VERTEX PHARM,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+VTR UN Equity,VENTAS INC,Real Estate,Real Estate,Equity Real Estate Investment,Health Care REITs
+VZ UN Equity,VERIZON COMMUNIC,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+WAB UN Equity,WABTEC CORP,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+WAT UN Equity,WATERS CORP,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+WBA UW Equity,WALGREENS BOOTS,Consumer Staples,Food & Staples Retailing,Food & Staples Retailing,Drug Retail
+WCG UN Equity,WELLCARE HEALTH,Health Care,Health Care Equipment & Servic,Health Care Providers & Servic,Managed Health Care
+WDC UW Equity,WESTERN DIGITAL,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+WEC UN Equity,WEC ENERGY GROUP,Utilities,Utilities,Multi-Utilities,Multi-Utilities
+WELL UN Equity,WELLTOWER INC,Real Estate,Real Estate,Equity Real Estate Investment,Health Care REITs
+WFC UN Equity,WELLS FARGO & CO,Financials,Banks,Banks,Diversified Banks
+WHR UN Equity,WHIRLPOOL CORP,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances
+WLTW UW Equity,WILLIS TOWERS WA,Financials,Insurance,Insurance,Insurance Brokers
+WM UN Equity,WASTE MANAGEMENT,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Environmental & Facilities Ser
+WMB UN Equity,WILLIAMS COS INC,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transporta
+WMT UN Equity,WALMART INC,Consumer Staples,Food & Staples Retailing,Food & Staples Retailing,Hypermarkets & Super Centers
+WRB UN Equity,WR BERKLEY CORP,Financials,Insurance,Insurance,Property & Casualty Insurance
+WRK UN Equity,WESTROCK CO,Materials,Materials,Containers & Packaging,Paper Packaging
+WU UN Equity,WESTERN UNION,Information Technology,Software & Services,IT Services,Data Processing & Outsourced S
+WY UN Equity,WEYERHAEUSER CO,Real Estate,Real Estate,Equity Real Estate Investment,Specialized REITs
+WYNN UW Equity,WYNN RESORTS LTD,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+XEC UN Equity,CIMAREX ENERGY C,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Produc
+XEL UW Equity,XCEL ENERGY INC,Utilities,Utilities,Electric Utilities,Electric Utilities
+XLNX UW Equity,XILINX INC,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+XOM UN Equity,EXXON MOBIL CORP,Energy,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas
+XRAY UW Equity,DENTSPLY SIRONA,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+XRX UN Equity,XEROX HOLDINGS C,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+XYL UN Equity,XYLEM INC,Industrials,Capital Goods,Machinery,Industrial Machinery
+YUM UN Equity,YUM! BRANDS INC,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Restaurants
+ZBH UN Equity,ZIMMER BIOMET HO,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Equipment
+ZBRA UW Equity,ZEBRA TECH CORP,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Equipment & Instrum
+ZION UW Equity,ZIONS BANCORP NA,Financials,Banks,Banks,Regional Banks
+ZTS UN Equity,ZOETIS INC,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals

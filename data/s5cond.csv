@@ -1,0 +1,190 @@
+TICKER,SHORT_NAME,GICS_SECTOR_NAME,GICS_INDUSTRY_GROUP_NAME,GICS_INDUSTRY_NAME,GICS_SUB_INDUSTRY_NAME
+AAP UN Equity,ADVANCE AUTO PAR,Consumer Discretionary,Retailing,"Specialty
+Retail",Automotive Retail
+AMZN UW Equity,AMAZON.COM INC,Consumer Discretionary,Retailing,"Internet
+&
+Direct
+Marketing
+Re",Internet & Direct Marketing Re
+APTV UN Equity,APTIV PLC,Consumer Discretionary,Automobiles & Components,"Auto
+Components",Auto Parts & Equipment
+AZO UN Equity,AUTOZONE INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Automotive Retail
+BBY UN Equity,BEST BUY CO INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Computer & Electronics Retail
+BKNG UW Equity,BOOKING HOLDINGS,Consumer Discretionary,Retailing,"Internet
+&
+Direct
+Marketing
+Re",Internet & Direct Marketing Re
+BWA UN Equity,BORGWARNER INC,Consumer Discretionary,Automobiles & Components,"Auto
+Components",Auto Parts & Equipment
+CCL UN Equity,CARNIVAL CORP,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure","Hotels, Resorts & Cruise Lines"
+CMG UN Equity,CHIPOTLE MEXICAN,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
+CPRI UN Equity,CAPRI HOLDINGS L,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+DG UN Equity,DOLLAR GENERAL C,Consumer Discretionary,Retailing,"Multiline
+Retail",General Merchandise Stores
+DHI UN Equity,DR HORTON INC,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Homebuilding
+DLTR UW Equity,DOLLAR TREE INC,Consumer Discretionary,Retailing,"Multiline
+Retail",General Merchandise Stores
+DRI UN Equity,DARDEN RESTAURAN,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
+EBAY UW Equity,EBAY INC,Consumer Discretionary,Retailing,"Internet
+&
+Direct
+Marketing
+Re",Internet & Direct Marketing Re
+EXPE UW Equity,EXPEDIA GROUP IN,Consumer Discretionary,Retailing,"Internet
+&
+Direct
+Marketing
+Re",Internet & Direct Marketing Re
+F UN Equity,FORD MOTOR CO,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+GM UN Equity,GENERAL MOTORS C,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+GPC UN Equity,GENUINE PARTS CO,Consumer Discretionary,Retailing,Distributors,Distributors
+GPS UN Equity,GAP INC/THE,Consumer Discretionary,Retailing,"Specialty
+Retail",Apparel Retail
+GRMN UW Equity,GARMIN LTD,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Consumer Electronics
+HAS UW Equity,HASBRO INC,Consumer Discretionary,Consumer Durables & Apparel,"Leisure
+Products",Leisure Products
+HBI UN Equity,HANESBRANDS INC,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+HD UN Equity,HOME DEPOT INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Home Improvement Retail
+HLT UN Equity,HILTON WORLDWIDE,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure","Hotels, Resorts & Cruise Lines"
+HOG UN Equity,HARLEY-DAVIDSON,Consumer Discretionary,Automobiles & Components,Automobiles,Motorcycle Manufacturers
+HRB UN Equity,H&R BLOCK INC,Consumer Discretionary,Consumer Services,"Diversified
+Consumer
+Services",Specialized Consumer Services
+JWN UN Equity,NORDSTROM INC,Consumer Discretionary,Retailing,"Multiline
+Retail",Department Stores
+KMX UN Equity,CARMAX INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Automotive Retail
+KSS UN Equity,KOHLS CORP,Consumer Discretionary,Retailing,"Multiline
+Retail",Department Stores
+LB UN Equity,L BRANDS INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Apparel Retail
+LEG UN Equity,LEGGETT & PLATT,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Home Furnishings
+LEN UN Equity,LENNAR CORP-A,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Homebuilding
+LKQ UW Equity,LKQ CORP,Consumer Discretionary,Retailing,Distributors,Distributors
+LOW UN Equity,LOWE'S COS INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Home Improvement Retail
+LVS UN Equity,LAS VEGAS SANDS,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Casinos & Gaming
+M UN Equity,MACY'S INC,Consumer Discretionary,Retailing,"Multiline
+Retail",Department Stores
+MAR UW Equity,MARRIOTT INTL-A,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure","Hotels, Resorts & Cruise Lines"
+MCD UN Equity,MCDONALDS CORP,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
+MGM UN Equity,MGM RESORTS INTE,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Casinos & Gaming
+MHK UN Equity,MOHAWK INDS,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Home Furnishings
+NCLH UN Equity,NORWEGIAN CRUISE,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure","Hotels, Resorts & Cruise Lines"
+NKE UN Equity,NIKE INC -CL B,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo",Footwear
+NVR UN Equity,NVR INC,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Homebuilding
+NWL UW Equity,NEWELL BRANDS IN,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Housewares & Specialties
+ORLY UW Equity,O'REILLY AUTOMOT,Consumer Discretionary,Retailing,"Specialty
+Retail",Automotive Retail
+PHM UN Equity,PULTEGROUP INC,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Homebuilding
+PVH UN Equity,PVH CORP,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+RCL UN Equity,ROYAL CARIBBEAN,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure","Hotels, Resorts & Cruise Lines"
+RL UN Equity,RALPH LAUREN COR,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+ROST UW Equity,ROSS STORES INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Apparel Retail
+SBUX UW Equity,STARBUCKS CORP,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
+TGT UN Equity,TARGET CORP,Consumer Discretionary,Retailing,"Multiline
+Retail",General Merchandise Stores
+TIF UN Equity,TIFFANY & CO,Consumer Discretionary,Retailing,"Specialty
+Retail",Specialty Stores
+TJX UN Equity,TJX COS INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Apparel Retail
+TPR UN Equity,TAPESTRY INC,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+TSCO UW Equity,TRACTOR SUPPLY,Consumer Discretionary,Retailing,"Specialty
+Retail",Specialty Stores
+UA UN Equity,UNDER ARMO-C,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+UAA UN Equity,UNDER ARMOUR-A,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+ULTA UW Equity,ULTA BEAUTY INC,Consumer Discretionary,Retailing,"Specialty
+Retail",Specialty Stores
+VFC UN Equity,VF CORP,Consumer Discretionary,Consumer Durables & Apparel,"Textiles,
+Apparel
+&
+Luxury
+Goo","Apparel, Accessories & Luxury"
+WHR UN Equity,WHIRLPOOL CORP,Consumer Discretionary,Consumer Durables & Apparel,"Household
+Durables",Household Appliances
+WYNN UW Equity,WYNN RESORTS LTD,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Casinos & Gaming
+YUM UN Equity,YUM! BRANDS INC,Consumer Discretionary,Consumer Services,"Hotels,
+Restaurants
+&
+Leisure",Restaurants
